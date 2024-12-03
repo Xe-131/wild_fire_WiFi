@@ -1,5 +1,5 @@
 # 无需多言
-![调试全能王](https://github.com/Xe-131/wild_fire_WiFi/blob/main/img/Xe-131-W.png)
+![logo](https://github.com/Xe-131/wild_fire_WiFi/blob/main/img/Xe-131-W.png)
 
 # 大致逻辑
 
@@ -12,7 +12,7 @@
 1. **手机端**：下载并安装一个 TCP 服务端软件（如“调试全能王”）。  
    - 在应用商店搜索并下载“调试全能王”或者其他类似的软件。
 
-   ![调试全能王](.\img\Screenshot_20241203_180510.jpg)
+   ![调试全能王](https://github.com/Xe-131/wild_fire_WiFi/blob/main/img/Screenshot_20241203_180510.jpg)
 
 2. **WiFi 设置**：确保手机已开启热点功能，并获取手机热点的名称（SSID）和密码。
 
@@ -23,7 +23,7 @@
 1. 打开 `bsp_esp8266_test.h` 文件。
 
 2. 在文件中找到以下四个宏定义：
-    ![alt text](.\img\image.png)
+    ![alt text](https://github.com/Xe-131/wild_fire_WiFi/blob/main/img/image.png)
    - 前两个宏分别设置为你手机热点的 **SSID** 和 **密码**。
    - 后两个宏分别设置为 **IP 地址** 和 **端口号**。
    
@@ -61,7 +61,7 @@
 
 - 有bug 比如手机能发到电脑, 反过来就不行, 就重启一下。毕竟我也只调了一个晚上, 有bug 很正常。
 - 可以给我点个star 么。
-- ![alt text](.\img\6070c077a83bccop.gif)
+- ![alt text](https://github.com/Xe-131/wild_fire_WiFi/blob/main/img/6070c077a83bccop.gif)
 
 ---
 如有侵权, 请联系作者删除
