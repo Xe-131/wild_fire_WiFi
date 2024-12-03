@@ -1,5 +1,5 @@
 # 无需多言
-![调试全能王](.\img\Xe-131-W.png)
+![调试全能王](https://github.com/Xe-131/wild_fire_WiFi/blob/main/img/Xe-131-W.png)
 
 # 大致逻辑
 
